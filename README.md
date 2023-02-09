@@ -1,8 +1,13 @@
-### Hi there 👋, Youssef Baataoui
+### Hi there 👋, I am Youssef Baataoui
 #### Full Stack Developer
+I am Youssef from the United States, and I do a full-stack developer. I enjoy learning new technologies and frameworks such as React, as well as programming with Java.
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ybaataoui)](https://github.com/ybaataoui/github-readme-stats)
 
-I am Youssef from the United States, and I do a full-stack developer. I enjoy learning new technologies and frameworks such as React, as well as programming with Java.
+## Skills and Experience
+* :React:
+* 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 Skills: Java/C# / JS / HTML / CSS
 
