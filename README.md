@@ -5,8 +5,8 @@ I am Youssef from the United States, and I do a full-stack developer. I enjoy le
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ybaataoui)](https://github.com/ybaataoui/github-readme-stats)
 
 ## Skills and Experience
-* [![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
-* [![My Skills](https://skillicons.dev/icons?i=C#,figma&theme=light)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=c#)](https://skillicons.dev)
 
 
 Skills: Java/C# / JS / HTML / CSS
