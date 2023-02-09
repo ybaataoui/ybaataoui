@@ -7,6 +7,10 @@ I am Youssef from the United States, and I do a full-stack developer. I enjoy le
 ## Skills and Experience
 * [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 * [![My Skills](https://skillicons.dev/icons?i=c#)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=sqlserver)](https://skillicons.dev)
 
 
 Skills: Java/C# / JS / HTML / CSS
