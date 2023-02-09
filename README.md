@@ -1,6 +1,6 @@
 ### Hi there 👋, Youssef Baataoui
 #### Full Stack Developer
-![Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybaataoui)](https://github.com/anuraghazra/github-readme-stats)
 
 I am Youssef from the United States, and I do a full-stack developer. I enjoy learning new technologies and frameworks such as React, as well as programming with Java.
 
