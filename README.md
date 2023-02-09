@@ -14,7 +14,7 @@ I am Youssef from the United States, and I am a full-stack developer. I enjoy le
 - 🌱 I’m currently learning React 
 
 ## Reach Out
-<img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ybaataoui)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ybaataoui)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/baataoui-youssef/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ybaataoui)  
 
